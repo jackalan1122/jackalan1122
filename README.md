@@ -14,7 +14,5 @@ Skills: HTML / CSS / JS / PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackalan1122&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/jackalan1122/contributions?format=svg&private=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jackalan1122)  
 
