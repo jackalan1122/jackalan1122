@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Jack
 #### NIce to meet you
-![NIce to meet you](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Nice to meet you](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a wordpress website developer and working as a freelancer.
 
